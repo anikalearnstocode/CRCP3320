@@ -1,4 +1,4 @@
 # CRCP3320
-First project for CRCP3320
+
+Hello World!
 Spring 2025
-Anika Krieger
